@@ -1,6 +1,6 @@
-SImple POC for LT - CodeceptJS Appium
+SImple POC for LT - CodeceptJS Appium<br />
 
 
-command to run -
-npm install
+command to run -<br />
+npm install<br />
 npm run codeceptjs
