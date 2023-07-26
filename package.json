@@ -4,8 +4,8 @@
         "@codeceptjs/examples": "^1.2.1",
         "@codeceptjs/ui": "^0.5.0",
         "codeceptjs": "^3.5.3",
+        "codeceptjs-lambdatest-service": "^1.0.3",
         "playwright": "^1.35.1",
-        "selenium-webdriver": "~4.10.0",
         "webdriverio": "^8.13.10"
     },
     "scripts": {
@@ -17,6 +17,7 @@
         "codeceptjs:demo:ui": "codecept-ui --app  -c node_modules/@codeceptjs/examples"
     },
     "dependencies": {
+        "selenium-webdriver": "^4.10.0",
         "wd": "^1.14.0"
     }
 }
